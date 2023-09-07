@@ -45,21 +45,21 @@
 	font-style: italic;
 	font-weight: normal;
 	font-display: auto;
-	src: url('https://e-ra.eoh.io/wp-content/uploads/sites/3/2022/10/Saira-Italic-VariableFont_wdthwght.ttf') format('truetype');
+	src: url('../../2022/10/Saira-Italic-VariableFont_wdthwght.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Saira';
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('https://e-ra.eoh.io/wp-content/uploads/sites/3/2022/10/Saira-VariableFont_wdthwght.ttf') format('truetype');
+	src: url('../../2022/10/Saira-VariableFont_wdthwght.ttf') format('truetype');
 }
 @font-face {
 	font-family: 'Saira';
 	font-style: normal;
 	font-weight: bold;
 	font-display: auto;
-	src: url('https://e-ra.eoh.io/wp-content/uploads/sites/3/2022/10/Saira-SemiBold.ttf') format('truetype');
+	src: url('../../2022/10/Saira-SemiBold.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */
 /* Start Custom Fonts CSS *//* End Custom Fonts CSS */
